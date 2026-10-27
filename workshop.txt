@@ -1,0 +1,6 @@
+version=1
+id=3085303512
+title=DreamFix Z
+description=Now zombies don't wait for your awakening - they orchestrate a true symphony of horror! And when you finally wake up, your cry of awakening echoes through the desolate streets, warning everyone around: survival is a battle on all fronts, even in the world of dreams!
+tags=Build 41;Balance;Hardmode;Misc;Multiplayer;Realistic
+visibility=public
